@@ -34,7 +34,7 @@ if (gender === 'male') {
     passed = true
 }
 
-else if (gender === 'female') {
+if (gender === 'female') {
     if (height >= 1.60)
     if ((barReps >= 5) || (barSeconds >= 12)) 
     if (abs >= 41)  
