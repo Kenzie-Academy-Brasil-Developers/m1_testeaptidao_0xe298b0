@@ -22,7 +22,7 @@ let passed = false;
 */
 // **sua lógica a partir daqui**
 //mudar valores de distancia e tempo pra metros e tempo
-//checar a altura, o número de repetições, abdominais, a distância corrida juntamente do tempo de corrida, ou a distância que foi percorrida na piscina juntamente do tempo do mergulho.
+//checar a altura, o número de repetições, abdominais, a distância corrida juntamente do tempo de corrida, ou a distância que foi percorrida na piscina juntamente do tempo do mergulho abaixo, em ordem.
 
 if (gender === 'male') {
     if (height >= 1.70) {
